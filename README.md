@@ -1,2 +1,1 @@
-# Employee-Payroll-Tracker
-A payroll manager to view and manage employee payroll data.
+# Employee Payroll Tracker Starter Code
