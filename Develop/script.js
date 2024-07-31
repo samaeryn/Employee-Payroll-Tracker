@@ -37,27 +37,25 @@ const collectEmployees = function() {
 
 }
 
-const displayAverageSalary = function(employeesArray) {
+function displayAverageSalary(_employeeArray) {
   let sum = 0;
-for(let i = 0; i < employees.length; i++) {
-  sum += numbers[i];
-}
-const averageSalary = sum / employees.length;
+  for (let i = 0; i < employees.length; i++) {
+    sum += numbers[i];
+  }
+  const averageSalary = sum / employees.length;
 }
 
 // Select a random employee
-function getRandomEmployee(employeesArray) {
+function getRandomEmployee(_employeeArray) {
 
-function rand(items) {
+Object.keys(employee)
+Math.floor(Math.random()*Object.keys(employee).length)
+Object.keys(employee)[Math.floor(Math.random()*Object.keys(employee).length)]
+employee[Object.keys(employee)[Math.floor(Math.random()*Object.keys(employee).length)]]
     // "|" for a kinda "int div"
-
-
-
-
-  // TODO: Select and display a random employee
 }
- return employees[employees.length * Math.random() | 0];
-}
+
+
 
 /*
   ====================
