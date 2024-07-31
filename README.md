@@ -12,4 +12,4 @@ The Employee Payroll Tracker is an appliation that recieves input from a user of
 
 ## Screenshots
 
-[img](Develop\Screenshot 2024-07-30 221314.png)
+[img](Develop\images\Screenshot 2024-07-30 221314.png)
